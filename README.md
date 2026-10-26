@@ -1,5 +1,6 @@
 # Hi, I'm Luis Eduardo Peraza 👋
 
+
 **Full Stack Engineer · AI Integration**
 I build AI-powered products end to end: React/TypeScript frontends, async Python and Node.js backends, and LLM features (RAG, tool use, agents) running in production.
 
