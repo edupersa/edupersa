@@ -1,7 +1,6 @@
 # Hi, I'm Luis Eduardo Peraza 👋
 
-**Full Stack Engineer · AI Integration** — Valencia, Spain
-
+**Full Stack Engineer · AI Integration**
 I build AI-powered products end to end: React/TypeScript frontends, async Python and Node.js backends, and LLM features (RAG, tool use, agents) running in production.
 
 Before software, I spent over a decade as an electronics and automation engineer in steel plants and renewable-energy manufacturing across Europe, the USA and Latin America. That's where I learned to build systems that can't afford to fail — and I bring the same reliability-first mindset to software.
